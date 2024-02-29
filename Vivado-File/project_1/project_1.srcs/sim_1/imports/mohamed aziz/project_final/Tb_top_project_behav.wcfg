@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Tb_top_project_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Tb_top_project" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="57.201 ns"></ZoomEndTime>
+      <Cursor1Time time="40.100 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="282"></NameColumnWidth>
+      <ValueColumnWidth column_width="110"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="51" />
+   <wvobject fp_name="/Tb_top_project/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/WriteRegM" type="array">
+      <obj_property name="ElementShortName">WriteRegM[4:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteRegM[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/WriteRegE" type="array">
+      <obj_property name="ElementShortName">WriteRegE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteRegE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/Mm/DM12/memo" type="array">
+      <obj_property name="ElementShortName">memo[64:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">memo[64:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/PCSrcD" type="logic">
+      <obj_property name="ElementShortName">PCSrcD</obj_property>
+      <obj_property name="ObjectShortName">PCSrcD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/az/temp_data_out" type="array">
+      <obj_property name="ElementShortName">temp_data_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/az/RD" type="array">
+      <obj_property name="ElementShortName">RD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/az/PCF" type="array">
+      <obj_property name="ElementShortName">PCF[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCF[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/StallF" type="logic">
+      <obj_property name="ElementShortName">StallF</obj_property>
+      <obj_property name="ObjectShortName">StallF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/StallD" type="logic">
+      <obj_property name="ElementShortName">StallD</obj_property>
+      <obj_property name="ObjectShortName">StallD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/PCSrcD" type="logic">
+      <obj_property name="ElementShortName">PCSrcD</obj_property>
+      <obj_property name="ObjectShortName">PCSrcD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/PCBranchD" type="array">
+      <obj_property name="ElementShortName">PCBranchD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCBranchD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/InstrD" type="array">
+      <obj_property name="ElementShortName">InstrD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">InstrD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/PCPD" type="array">
+      <obj_property name="ElementShortName">PCPD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCPD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FE25/PCPF" type="array">
+      <obj_property name="ElementShortName">PCPF[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCPF[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/BranchD" type="logic">
+      <obj_property name="ElementShortName">BranchD</obj_property>
+      <obj_property name="ObjectShortName">BranchD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ForwardAD" type="array">
+      <obj_property name="ElementShortName">ForwardAD[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ForwardAD[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ForwardBD" type="array">
+      <obj_property name="ElementShortName">ForwardBD[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ForwardBD[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/RegWriteW" type="logic">
+      <obj_property name="ElementShortName">RegWriteW</obj_property>
+      <obj_property name="ObjectShortName">RegWriteW</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/FlushE" type="logic">
+      <obj_property name="ElementShortName">FlushE</obj_property>
+      <obj_property name="ObjectShortName">FlushE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ResultW" type="array">
+      <obj_property name="ElementShortName">ResultW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ResultW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ALUOutM" type="array">
+      <obj_property name="ElementShortName">ALUOutM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOutM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/WriteRegW" type="array">
+      <obj_property name="ElementShortName">WriteRegW[4:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteRegW[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/RsE" type="array">
+      <obj_property name="ElementShortName">RsE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RsE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/RtE" type="array">
+      <obj_property name="ElementShortName">RtE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RtE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/RdE" type="array">
+      <obj_property name="ElementShortName">RdE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RdE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/RsD" type="array">
+      <obj_property name="ElementShortName">RsD[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RsD[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/RtD" type="array">
+      <obj_property name="ElementShortName">RtD[4:0]</obj_property>
+      <obj_property name="ObjectShortName">RtD[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/M1" type="array">
+      <obj_property name="ElementShortName">M1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/M2" type="array">
+      <obj_property name="ElementShortName">M2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">M2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/SignImmE" type="array">
+      <obj_property name="ElementShortName">SignImmE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SignImmE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ALUControlE" type="array">
+      <obj_property name="ElementShortName">ALUControlE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUControlE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ALUOutM1" type="array">
+      <obj_property name="ElementShortName">ALUOutM1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOutM1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ForwardAD1" type="array">
+      <obj_property name="ElementShortName">ForwardAD1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ForwardAD1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ForwardBD1" type="array">
+      <obj_property name="ElementShortName">ForwardBD1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ForwardBD1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/WriteRegW1" type="array">
+      <obj_property name="ElementShortName">WriteRegW1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteRegW1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ForwardAE" type="array">
+      <obj_property name="ElementShortName">ForwardAE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ForwardAE[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ForwardBE" type="array">
+      <obj_property name="ElementShortName">ForwardBE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ForwardBE[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/WriteRegM" type="array">
+      <obj_property name="ElementShortName">WriteRegM[4:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteRegM[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/WriteRegE" type="array">
+      <obj_property name="ElementShortName">WriteRegE[4:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteRegE[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/RegWriteM" type="logic">
+      <obj_property name="ElementShortName">RegWriteM</obj_property>
+      <obj_property name="ObjectShortName">RegWriteM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/MemtoRegM" type="logic">
+      <obj_property name="ElementShortName">MemtoRegM</obj_property>
+      <obj_property name="ObjectShortName">MemtoRegM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/MemWriteM" type="logic">
+      <obj_property name="ElementShortName">MemWriteM</obj_property>
+      <obj_property name="ObjectShortName">MemWriteM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/WriteDataM" type="array">
+      <obj_property name="ElementShortName">WriteDataM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteDataM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ALUOutMg1" type="array">
+      <obj_property name="ElementShortName">ALUOutMg1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOutMg1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/MemtoRegW" type="logic">
+      <obj_property name="ElementShortName">MemtoRegW</obj_property>
+      <obj_property name="ObjectShortName">MemtoRegW</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ReadDataW" type="array">
+      <obj_property name="ElementShortName">ReadDataW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ReadDataW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/ALUOutW" type="array">
+      <obj_property name="ElementShortName">ALUOutW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOutW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/WriteRegE1" type="array">
+      <obj_property name="ElementShortName">WriteRegE1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">WriteRegE1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/BranchD1" type="logic">
+      <obj_property name="ElementShortName">BranchD1</obj_property>
+      <obj_property name="ObjectShortName">BranchD1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Tb_top_project/tp/RegWriteW1" type="logic">
+      <obj_property name="ElementShortName">RegWriteW1</obj_property>
+      <obj_property name="ObjectShortName">RegWriteW1</obj_property>
+   </wvobject>
+</wave_config>

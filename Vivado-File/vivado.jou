@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Feb 29 22:25:27 2024
+# Process ID: 10972
+# Current directory: C:/Users/mohamed aziz/Desktop/Projet RISC-V Pipelining PROCESSOR/Vivado-File
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23320 C:\Users\mohamed aziz\Desktop\Projet RISC-V Pipelining PROCESSOR\Vivado-File\project_final.xpr
+# Log file: C:/Users/mohamed aziz/Desktop/Projet RISC-V Pipelining PROCESSOR/Vivado-File/vivado.log
+# Journal file: C:/Users/mohamed aziz/Desktop/Projet RISC-V Pipelining PROCESSOR/Vivado-File\vivado.jou
+# Running On: zizou, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 29909 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/mohamed aziz/Desktop/Projet RISC-V Pipelining PROCESSOR/Vivado-File/project_final.xpr}
+update_compile_order -fileset sources_1
+save_project_as project_1 {C:/Users/mohamed aziz/Desktop/Projet RISC-V Pipelining PROCESSOR/Vivado-File/project_1} -force
+import_files
