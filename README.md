@@ -2,6 +2,8 @@
 # Overview
 This project focuses on the implementation of a pipelined processor based on the RISC-V instruction set architecture (ISA) using Vivado and Verilog. The RISC-V ISA is a free and open standard ISA designed for various computing devices.
 
+![Full circuit](https://github.com/mohamedazizbelhouchet/RISC-V-PIPELINED-PROCESSOR-Implementation/assets/127042008/8f224078-4991-4b8f-83ec-385747c98e29)
+
 # Project Details
 The pipelined processor is a fundamental component of modern CPUs, enhancing performance by executing multiple instructions simultaneously. This project implements a basic 5-stage pipelined processor for the RISC-V ISA, including stages such as Instruction Fetch (IF), Instruction Decode (ID), Execution (EX), Memory Access (MEM), and Write Back (WB).
 
