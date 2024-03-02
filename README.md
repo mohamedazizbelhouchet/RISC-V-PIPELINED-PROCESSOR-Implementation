@@ -9,6 +9,8 @@ In this project, we are implementing a pipelined 32-bit RISC-V ISA-based process
 # Project Details
 The pipelined processor is a fundamental component of modern CPUs, enhancing performance by executing multiple instructions simultaneously. This project implements a basic 5-stage pipelined processor for the RISC-V ISA, including stages such as Instruction Fetch (IF), Instruction Decode (ID), Execution (EX), Memory Access (MEM), and Write Back (WB).
 
+The following circuit represents the RTL Analysis circuit as modeled in Vivado.
+![image](https://github.com/mohamedazizbelhouchet/RISC-V-PIPELINED-PROCESSOR-Implementation/assets/161772847/d7086495-947c-45b8-9be8-b5d3f4ed409e)
 # Implementation
 The processor is designed in Verilog, a hardware description language (HDL), and developed using Vivado, which provides tools for simulation and synthesis. The implementation includes support for a subset of RISC-V instructions, data hazard handling with forwarding and hazard detection mechanisms, and control hazard management with stall mechanisms.
 
