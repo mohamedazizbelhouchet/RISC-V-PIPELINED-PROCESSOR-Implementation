@@ -22,3 +22,8 @@ Future improvements to the project could involve adding support for more RISC-V 
 
 # Conclusion
 By implementing a pipelined processor for the RISC-V ISA, this project provides a practical learning experience in digital design and computer architecture. The project's code can be a valuable resource for individuals interested in studying processor design and implementation.
+Here's a refined version of your sentence:
+
+For more details, I recommend this book, which can serve as a valuable guide to help you gain a deeper understanding of this project.
+![image](https://github.com/user-attachments/assets/fdfaea16-7002-4065-9e66-8f3d6c47177f)
+
